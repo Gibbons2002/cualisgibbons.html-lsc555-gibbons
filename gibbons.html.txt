@@ -1,8 +1,8 @@
 Created by Emily Gibbons 
 https://naturalhistory.si.edu/research/mineral-sciences/collections-overview/collection-highlights
 
-
-Information and Data Science Center 
+<head>
+<title>Information and Data Science Center</title> 
 Library: National History Museum
 * Context: 
    * Smithsonian Natural History Museum DC 
@@ -26,3 +26,5 @@ Content
    * The side tab pops up every now and then pointing users to the different aspects of the website. It pops up on the different tabs of the website. 
    * Improvement 
 * I could not find much areas for improvement except getting rid of the pop up tab on the side unless necessary.
+  </body>
+</html>
